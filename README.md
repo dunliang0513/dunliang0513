@@ -85,7 +85,7 @@ Apart from coding, I'm interested in:
 ## 📫 Connect with Me
 
 - LinkedIn: [Foo Dun Liang](https://www.linkedin.com/in/dun-liang-foo-11884421b/)
-- Email: [Your Email Address](mailto:dunliangfoo0513@gmail.com)
+- Email: [dunliangfoo0513@gmail.com](mailto:dunliangfoo0513@gmail.com)
 
 Feel free to explore my repositories and connect with me! I'm always open to collaboration and new opportunities.
 
