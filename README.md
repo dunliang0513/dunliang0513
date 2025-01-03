@@ -1,10 +1,18 @@
 # Hello, I'm Dun Liang 👋
 
-I'm a Year 4 Computer Science student at the National University of Singapore (NUS), specializing in AI and Networking. I'm passionate about exploring the intersection of technology and problem-solving. Here's a bit more about me:
+As a fourth-year Computer Science student with a deep passion for Artificial Intelligence and Networking, my journey into the world of AI began during high school when I first witnessed Tesla unveil its autopilot driving technology. This moment sparked a curiosity that has since grown into a relentless drive to understand how AI can transform our lives and reshape the future.
+
+Fueled by this passion, I pursued a degree in Computer Science with a specialization in AI, building a strong foundation in programming languages such as Python, Java, and C, as well as expertise in data structures, algorithms, and computer vision. My academic journey has allowed me to explore the fascinating intersection of AI and software engineering, and I am particularly intrigued by how AI can be applied to solve real-world problems and enhance everyday life.
+
+As I transition into my final year, I am eager to deepen my understanding of Artificial Intelligence and Networking and contribute to innovative projects that leverage cutting-edge technologies. My ultimate goal is to advance the boundaries of AI, working on impactful solutions that bridge technology and human experiences.
+
+With a passion for continuous learning and a commitment to fostering growth and innovation, I am excited about the opportunities to make meaningful contributions to this rapidly evolving industry as an AI Engineer.
+
+Here's a bit more about myself:
 
 ## 🔭 Specializations
 
-- **Artificial Intelligence (AI):** I have a keen interest in AI, from machine learning algorithms to natural language processing.
+- **Artificial Intelligence (AI):** I have a keen interest in AI, from machine learning algorithms to machine learning and computer vision.
 - **Networking:** Understanding the intricacies of network protocols and architectures fascinates me.
 
 ## 🚀 Programming Languages & Libraries
@@ -13,10 +21,7 @@ I'm proficient in a variety of programming languages and AI/ML libraries:
 
 - Python
 - Java
-- C
 - C++
-- JavaScript
-- ReactJS
 - TensorFlow
 - PyTorch
 - Pandas
@@ -29,7 +34,7 @@ I'm proficient in a variety of programming languages and AI/ML libraries:
   - Bachelor of Computing in Computer Science
   - Focus Area: Artificial Intelligence and Computing Network
   - Student Exchange Program: Nanjing University
-  - Expected Graduation: May 2025
+  - Expected Graduation: August 2025
 
 Here’s an updated **Project Showcase** section for your README, including your requested projects with key contributions, learning points, and key features:
 
