@@ -132,12 +132,15 @@ Apart from coding, I'm interested in:
 
 Here are some of the certifications I've completed related to AI:
 
-- **[Deep Learning Applications for Computer Vision](https://coursera.org/share/10794a673a46e3b3d62ed029f84a801c)** (Cousera, Sep 2024)
-- **[Creating Multi-Task Models With Keras](https://coursera.org/share/e23d40e87a4b4da974491250ac7f0dc7)** (Coursera, Aug 2023)
-- **[Deep Learning with PyTorch: Image Segmentation](https://courses.edx.org/certificates/9b4055c6d5fe47b59d3072b28a559717)** (Coursera, Jul 2023)
-- **[Google AI for JavaScript Developers with TensorFlow.js](https://courses.edx.org/certificates/01ca05d235ba4117a7992de49fe0b729)** (edX, Sep 2023)
+- **[Basic Image Classifications with TensorFlow](https://coursera.org/share/99f850ec506369d742c8ce1bff4e5d0d)** (Coursera, Jan 2025)
+- **[Deep Learning Applications for Computer Vision](https://coursera.org/share/10794a673a46e3b3d62ed029f84a801c)** (Coursera, Sep 2024)
 - **[Deep Learning with Python and PyTorch](https://coursera.org/share/3d4381b536173265a528e571329c18d7)** (edX, Feb 2024)
 - **[Data Science: Machine Learning](https://courses.edx.org/certificates/bbb490fb64f14ba29a21efdbc6c14202)** (edX, Dec 2023)
+- **[Google AI for JavaScript Developers with TensorFlow.js](https://courses.edx.org/certificates/01ca05d235ba4117a7992de49fe0b729)** (edX, Sep 2023)
+- **[Creating Multi-Task Models With Keras](https://coursera.org/share/e23d40e87a4b4da974491250ac7f0dc7)** (Coursera, Aug 2023)
+- **[Deep Learning with PyTorch: Image Segmentation](https://courses.edx.org/certificates/9b4055c6d5fe47b59d3072b28a559717)** (Coursera, Jul 2023)
+
+
 
 ## 📫 Connect with Me
 
