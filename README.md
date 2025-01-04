@@ -137,7 +137,8 @@ Apart from coding, I'm interested in:
 
 Here are some of the certifications I've completed related to AI:
 
-- **[Basic Image Classifications with TensorFlow](https://coursera.org/share/99f850ec506369d742c8ce1bff4e5d0d)** (Coursera, Jan 2025)
+- **[Transfer Learning for NLP with TensorFlow Hub](https://coursera.org/share/5d33334ef30b2ff0e288c81079289b07)** (Coursera, Jan 2025)
+-  **[Basic Image Classifications with TensorFlow](https://coursera.org/share/99f850ec506369d742c8ce1bff4e5d0d)** (Coursera, Jan 2025)
 - **[Deep Learning Applications for Computer Vision](https://coursera.org/share/10794a673a46e3b3d62ed029f84a801c)** (Coursera, Sep 2024)
 - **[Deep Learning with Python and PyTorch](https://coursera.org/share/3d4381b536173265a528e571329c18d7)** (edX, Feb 2024)
 - **[Data Science: Machine Learning](https://courses.edx.org/certificates/bbb490fb64f14ba29a21efdbc6c14202)** (edX, Dec 2023)
