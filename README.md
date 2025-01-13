@@ -137,6 +137,7 @@ Apart from coding, I'm interested in:
 
 Here are some of the certifications I've completed related to AI:
 
+- **[Introduction to Generative AI](https://coursera.org/share/d4449fed36ff28a5dec607c4494b6aa4)** (Duke University, Jan 2025)
 - **[Transfer Learning for NLP with TensorFlow Hub](https://coursera.org/share/5d33334ef30b2ff0e288c81079289b07)** (Coursera, Jan 2025)
 -  **[Basic Image Classifications with TensorFlow](https://coursera.org/share/99f850ec506369d742c8ce1bff4e5d0d)** (Coursera, Jan 2025)
 - **[Deep Learning Applications for Computer Vision](https://coursera.org/share/10794a673a46e3b3d62ed029f84a801c)** (Coursera, Sep 2024)
