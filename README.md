@@ -1,40 +1,50 @@
-# Hello, I'm Dun Liang 👋
+# Hello, I'm Dun Liang 👋  
 
-As a fourth-year Computer Science student with a deep passion for Artificial Intelligence and Networking, my journey into the world of AI began during high school when I first witnessed Tesla unveil its autopilot driving technology. This moment sparked a curiosity that has since grown into a relentless drive to understand how AI can transform our lives and reshape the future.
+I’m a **Full Stack AI Engineer at Venture Corporation**, where I work across the full development stack — from **frontend and backend systems** to **AI and Edge AI model development and deployment**. My work bridges software engineering and artificial intelligence to build efficient, intelligent systems that run seamlessly from **cloud to edge**.  
 
-Fueled by this passion, I pursued a degree in Computer Science with a specialization in AI, building a strong foundation in programming languages such as Python, Java, and C, as well as expertise in data structures, algorithms, and computer vision. My academic journey has allowed me to explore the fascinating intersection of AI and software engineering, and I am particularly intrigued by how AI can be applied to solve real-world problems and enhance everyday life.
+My journey into AI began back in high school when I first witnessed **Tesla’s autopilot** — a moment that sparked my fascination with how intelligent technology can transform the way we live. Since then, I’ve been driven by curiosity and a passion for building solutions that connect innovation with real-world impact.  
 
-As I transition into my final year, I am eager to deepen my understanding of Artificial Intelligence and Networking and contribute to innovative projects that leverage cutting-edge technologies. My ultimate goal is to advance the boundaries of AI, working on impactful solutions that bridge technology and human experiences.
+I enjoy developing **end-to-end AI pipelines**, integrating **deep learning models** into production environments, and optimizing them for **embedded hardware platforms** such as **NVIDIA Jetson** and **Hailo AI accelerators**. Beyond AI, I also love creating **intuitive frontends** and **scalable backend architectures** that bring these intelligent systems to life.  
 
-With a passion for continuous learning and a commitment to fostering growth and innovation, I am excited about the opportunities to make meaningful contributions to this rapidly evolving industry as an AI Engineer.
+With a continuous drive to learn and innovate, I aim to push the boundaries of **applied AI and Edge AI**, designing systems that make technology more human-centered and impactful.  
 
-Here's a bit more about myself:
+---
 
-## 🔭 Specializations
+## 🔭 Areas of Expertise  
 
-- **Artificial Intelligence (AI):** I have a keen interest in AI, from machine learning algorithms to machine learning and computer vision.
-- **Networking:** Understanding the intricacies of network protocols and architectures fascinates me.
+- **Artificial Intelligence (AI) & Edge AI:** Model training, optimization, and deployment on embedded devices.  
+- **Full Stack Development:** Building responsive frontends, scalable APIs, and cloud-integrated systems.  
+- **Computer Vision & Machine Learning:** Deep learning, object detection, and real-time inference.  
+- **Software Engineering:** End-to-end pipeline integration, version control, and CI/CD workflows.  
 
-## 🚀 Programming Languages & Libraries
+---
 
-I'm proficient in a variety of programming languages and AI/ML libraries:
+## 💻 Tech Stack  
 
-- Python
-- Java
-- C++
-- TensorFlow
-- PyTorch
-- Pandas
-- NumPy
-- Matplotlib
+**Languages:**  
+Python, Java, C++, JavaScript, TypeScript  
 
-## 📚 Education
+**Frameworks & Tools:**  
+React, Tailwind CSS, Redux-Saga, TensorFlow, PyTorch, OpenCV  
 
-- **National University of Singapore (NUS)**
-  - Bachelor of Computing in Computer Science
-  - Focus Area: Artificial Intelligence and Computing Network
-  - Student Exchange Program: Nanjing University
-  - Expected Graduation: August 2025
+**Backend & Cloud:**  
+Node.js, Express, AWS (SageMaker, EC2, S3), Supabase, Prisma  
+
+**Hardware & Edge:**  
+NVIDIA Jetson, Hailo AI accelerators  
+
+**Data Tools:**  
+Pandas, NumPy, Matplotlib, scikit-learn  
+
+---
+
+## 🎓 Education  
+
+**Bachelor of Computing (Computer Science)**  
+**National University of Singapore (NUS)**  
+- Focus Area: Artificial Intelligence & Computer Networks  
+- Student Exchange: Nanjing University  
+- **Graduated:** August 2025  
 
 Here’s an updated **Project Showcase** section for your README, including your requested projects with key contributions, learning points, and key features:
 
