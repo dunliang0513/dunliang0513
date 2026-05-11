@@ -32,12 +32,6 @@ NUS CS (AI) grad · ex-student exchange @ Nanjing University · driven by the sa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dunliang0513&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunliang0513&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
-
-<br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=dunliang0513&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
